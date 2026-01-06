@@ -6,34 +6,6 @@ import java.text.SimpleDateFormat;
 import java.math.BigDecimal;
 import java.util.Date;
 
-/**
- * =============================================================================
- * LEGACY RETAIL PRO - ROZSZERZONY PRZYKŁAD ANTY-SOLID
- * =============================================================================
- * Ten kod celowo łamie wszystkie zasady SOLID i zawiera liczne anty-wzorce.
- * Służy jako materiał edukacyjny pokazujący, CZEGO NIE ROBIĆ.
- *
- * Złamane zasady:
- * - SRP (Single Responsibility Principle) - klasy robią zbyt wiele
- * - OCP (Open/Closed Principle) - modyfikacje wymagają zmian w istniejącym kodzie
- * - LSP (Liskov Substitution Principle) - podklasy nie zachowują kontraktu
- * - ISP (Interface Segregation Principle) - zbyt duże interfejsy
- * - DIP (Dependency Inversion Principle) - zależność od konkretnych implementacji
- *
- * Dodatkowe anty-wzorce:
- * - God Object
- * - Copy-Paste Programming
- * - Magic Numbers
- * - Hard-coded values
- * - Poor exception handling
- * - Tight coupling
- * =============================================================================
- */
-
-/**
- * INTERFEJS WSZYSTKIEGO (Łamanie ISP)
- * Każdy element systemu musi to implementować, nawet jeśli nie ma sensu.
- */
 interface ISystemComponent {
     void process();
     void saveToSql();
