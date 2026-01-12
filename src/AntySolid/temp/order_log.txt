@@ -1,0 +1,24 @@
+Order saved: 101 for Janusz Biznesu at 2025-12-29 18:05:50 | Total: 3410.0
+Order saved: 303 for TechCorp Sp. z o.o. at 2025-12-29 18:05:50 | Total: 285500.0
+Order saved: 404 for Krzysztof Kowalski at 2025-12-29 18:05:50 | Total: 5517.0
+Order saved: 101 for Janusz Biznesu at 2025-12-29 18:06:40 | Total: 3410.0
+Order saved: 303 for TechCorp Sp. z o.o. at 2025-12-29 18:06:40 | Total: 285500.0
+Order saved: 404 for Krzysztof Kowalski at 2025-12-29 18:06:40 | Total: 5517.0
+Order saved: 101 for Janusz Biznesu at 2025-12-29 18:07:07 | Total: 3410.0
+Order saved: 303 for TechCorp Sp. z o.o. at 2025-12-29 18:07:07 | Total: 285500.0
+Order saved: 404 for Krzysztof Kowalski at 2025-12-29 18:07:07 | Total: 5517.0
+Order saved: 101 for Janusz Biznesu at 2025-12-29 18:12:53 | Total: 3410.0
+Order saved: 303 for TechCorp Sp. z o.o. at 2025-12-29 18:12:53 | Total: 285500.0
+Order saved: 404 for Krzysztof Kowalski at 2025-12-29 18:12:53 | Total: 5517.0
+Order saved: 101 for Janusz Biznesu at 2025-12-29 18:14:02 | Total: 3410.0
+Order saved: 303 for TechCorp Sp. z o.o. at 2025-12-29 18:14:02 | Total: 285500.0
+Order saved: 404 for Krzysztof Kowalski at 2025-12-29 18:14:02 | Total: 5517.0
+Order saved: 101 for Janusz Biznesu at 2025-12-29 18:15:33 | Total: 3410.0
+Order saved: 303 for TechCorp Sp. z o.o. at 2025-12-29 18:15:33 | Total: 285500.0
+Order saved: 404 for Krzysztof Kowalski at 2025-12-29 18:15:33 | Total: 5517.0
+Order saved: 101 for Janusz Biznesu at 2026-01-06 12:17:40 | Total: 3410.0
+Order saved: 303 for TechCorp Sp. z o.o. at 2026-01-06 12:17:40 | Total: 285500.0
+Order saved: 404 for Krzysztof Kowalski at 2026-01-06 12:17:40 | Total: 5517.0
+Order saved: 101 for Janusz Biznesu at 2026-01-06 12:28:48 | Total: 3410.0
+Order saved: 303 for TechCorp Sp. z o.o. at 2026-01-06 12:28:48 | Total: 285500.0
+Order saved: 404 for Krzysztof Kowalski at 2026-01-06 12:28:48 | Total: 5517.0

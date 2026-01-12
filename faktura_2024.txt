@@ -1,0 +1,8 @@
+FAKTURA NR: 2024
+KLIENT: Adam Nowak
+------------------------------------------
+Laptop Gamingowy     x1  4000,00 PLN
+------------------------------------------
+SUMA NETTO:    3950,00 PLN
+PODATEK:       920,00 PLN
+DO ZAPŁATY:    4870,00 PLN

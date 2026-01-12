@@ -1,0 +1,5 @@
+INFO: System zainicjalizowany. Baza danych i logowanie gotowe.
+INFO: Dostawa przyjęta. Stan magazynowy: 5
+INFO: Zeskanowano produkt o kodzie: 5901234567890
+INFO: Obliczono kwotę: 4870.0 PLN (Rabat: 50.0 PLN)
+INFO: Test systemu SOLID zakończony sukcesem.
